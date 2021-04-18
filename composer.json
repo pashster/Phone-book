@@ -1,7 +1,7 @@
 {
   "name": "pashster/phone-book",
   "description": "Заготовка для домашнего задания № 41",
-  "type": "project",
+  "type": "library",
   "version": "1.0.0",
   "authors": [
     {
